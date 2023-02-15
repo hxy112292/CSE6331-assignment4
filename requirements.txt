@@ -1,5 +1,5 @@
 Flask==1.0.2
-werkzeug==0.16.1
+werkzeug==2.2.3
 pandas
 numpy
 redis
